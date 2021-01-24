@@ -12,7 +12,7 @@
 
 #### Preencha o tabuleiro com barcos digitando as informações solicitas.
 #### Quando considerar que acabou de preencher digite 0 (ZERO), como tipo de barco.
-#### O programa fará as tentativas e informará quantos tiros foram dados para destruiir todos os seus barcos.
+#### O programa fará as tentativas e informará quantos tiros foram dados para destruir todos os seus barcos.
 
 
 ## Enunciado completo do programa
