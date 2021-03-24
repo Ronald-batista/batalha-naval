@@ -30,6 +30,8 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
+            git config --global user.email "ronald_hobo@outlook.com.br"
+            git config --global user.name "Ronald-batista"
             git add .
             git commit -m "criado no CI"
             git push -u origin master
