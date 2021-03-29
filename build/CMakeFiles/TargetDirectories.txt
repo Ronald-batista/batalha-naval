@@ -1,0 +1,3 @@
+D:/batalha naval/build/CMakeFiles/batalha.dir
+D:/batalha naval/build/CMakeFiles/ALL_BUILD.dir
+D:/batalha naval/build/CMakeFiles/ZERO_CHECK.dir
