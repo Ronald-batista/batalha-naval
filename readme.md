@@ -33,7 +33,7 @@ Depois de carregado o tabuleiro, o programa tentará afundar os navios. O progra
 deve executar até afundar todos os navios, e deve contar quantos tiros foram dados para<br>
 conseguir afundá-los. Os tiros devem ser feitos sorteando aleatoriamente as duas coordenadas<br>
 do mapa. Para o sorteio aleatório vocês devem usar a função rand() que está na biblioteca<br>
-stdlib.h.<br>
+stdlib.h<br>
 Quando todos os navios forem afundados vocês devem finalizar o programa e mostrar<br>
 para o usuário quantos tiros foram dados.</p>
 
